@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		A613688C27E40B2400C8F686 /* Wordle */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Wordle; sourceTree = BUILT_PRODUCTS_DIR; };
 		A613688F27E40B2400C8F686 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		A613689627E513D200C8F686 /* Library.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Library.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		A613688E27E40B2400C8F686 /* Wordle */ = {
 			isa = PBXGroup;
 			children = (
+				A613689627E513D200C8F686 /* Library.h */,
 				A613688F27E40B2400C8F686 /* main.cpp */,
 			);
 			path = Wordle;
